@@ -1,5 +1,5 @@
 # FortiGate SSL VPN brute-force sources (password spraying)
-# Generated 2026-11-16 21:16 UTC, 217 entries.
+# Generated 2026-11-19 09:33 UTC, 218 entries.
 # Entries expire 30 days after they were last seen.
 # One IP or CIDR per line; lines starting with # are comments.
 23.159.216.164
@@ -136,6 +136,7 @@
 68.235.46.194
 68.235.46.216
 68.235.46.231
+72.251.215.14
 72.251.215.20
 72.251.215.28
 79.127.222.196
